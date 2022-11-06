@@ -1,0 +1,36 @@
+img {
+    border-radius:15px;
+}
+body{
+    text-align:center;
+    background-color:black;
+}
+h1,h2,h3,h4,h5,h6,p,b {
+    color:white;
+    font-family:Arial;
+}
+input {
+    height:50px;
+}
+.btn {
+    color:white;
+    background-color:rgb(32, 32, 32);
+    border:2px solid rgb(21, 21, 21);
+    height:50px;
+    width:100px;
+    border-radius:2px;
+}
+.btn:hover {
+    color:blue;
+    background-color:rgb(32, 32, 32);
+    border:2px solid blue;
+    border-radius:2px;
+    box-shadow:5px 5px 38px blue;
+    height:50px;
+    width:100px;
+
+}
+.normal-div {
+    background-color:rgb(32, 32, 32);
+    border:2px solid rgb(21, 21, 21);
+}
